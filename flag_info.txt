@@ -1,0 +1,14 @@
+flag:
+0x01:button1 (for push)
+0x02:button2 (for push)
+0x04:button3 (for push)
+0x08:pushedButton1
+0x10:pushedButton2
+0x20:pushedButton3
+0x40:sleeping//sleepMenuWindow
+0x80:tmp//showCount//Keyboard
+0x*0**: Main
+0x0100: Menu
+0x0200: Memo List
+//0x0200: ScreenSaver
+//0x0400: Temp&hoge
