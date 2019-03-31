@@ -1,5 +1,0 @@
-{
-    "board": "arduino:avr:leonardo",
-    "port": "COM3",
-    "sketch": "MyselfClock.ino"
-}
